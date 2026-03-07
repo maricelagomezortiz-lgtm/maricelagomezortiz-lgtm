@@ -2,12 +2,10 @@
 
 ### Ingeniera en Informática \| Data & BI Developer
 
-Soy Ingeniera en Informática con experiencia en **ingeniería de datos,
-automatización de procesos y análisis de información empresarial**.
-Trabajo principalmente con **SQL Server, ETL, Power BI y Excel
-avanzado**, desarrollando soluciones para procesamiento, integración y
-visualización de datos.
-
+Soy Ingeniera en Informática con experiencia en Integración de **sistemas ERP** 
+**ingeniería de datos, automatización de procesos y análisis de información empresarial**.
+Trabajo principalmente con **SQL Server, ETL, Power BI y Excel avanzado**, 
+desarrollando soluciones para procesamiento, integración y visualización de datos.
 ------------------------------------------------------------------------
 
 ## 🚀 Tecnologías y Herramientas
