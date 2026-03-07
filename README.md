@@ -9,7 +9,7 @@ avanzado**, desarrollando soluciones para procesamiento, integración y
 visualización de datos.
 ------------------------------------------------------------------------
 
-## 🚀 Tecnologías y Herramientas
+## 🚀 Tecnologías y Herramientas de Analisis 
 
 -   Integración de Sistemas ERP
 -   Modelado de Datos
