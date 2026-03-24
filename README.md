@@ -4,16 +4,16 @@
 
 Soy Ingeniera en Informática desde el 2009
 
-<p alingt = justify>
+<p alingt = "justify">
   He trabajado en el sector indutruial automotriz y acereara automatizando procesos de manufactura y creando análisis de información de procesos industriales
 </p>
-<p>
+<p alingt = "justify">
   He trabajado en la implementación y gestion de sistemas empresariales ERP como Oracle Cloud en una metodologia de cascada, los procesos industriales en ERP QAD y Procesos Contables en Calipso Corporate
 </p>
-<p>
+<p alingt = "justify">
 Tengo experiencia solida en herramiestas de manejo de datos **SQL Server, ETL, Powe1r BI y Excel avanzado** desarrollando soluciones para procesamiento, integración y visualización de datos.
 </p>
-<p>
+<p alingt = "justify">
 Duarante mi experiencia generé soluciones a procesos manuales como el desarrollo de gestion warehouse para el manejo de mercancias inLine.
 </p>
 
