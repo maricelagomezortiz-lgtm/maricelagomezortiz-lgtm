@@ -5,7 +5,7 @@
 Soy Ingeniera en Informática desde el 2009 🙋🏻‍♀️
 
 <p aling = "justify">
-  He trabajado en el sector automotriz y acerero automatizando procesos de manufactura y creando análisis de información de procesos industriales.
+  He trabajado en el sector de manufactura automotriz automatizando procesos de manufactura y creando análisis de información de procesos industriales.
 </p>
 <p aling = "justify">
   Fui parte del equipo de implementación y gestion de sistemas empresariales ERP cubriendo el 90% de los procesos y usando una metodologia E2E.
@@ -13,12 +13,12 @@ Soy Ingeniera en Informática desde el 2009 🙋🏻‍♀️
 <p aling = "justify">
 Tengo experiencia solida en herramiestas de manejo de datos desarrollando soluciones para procesamiento, integración y visualización de datos.
 </p>
-<p aling = "justify">
-Desarollé aplicación Warehouse para la entrada al inventario y etiquetado de productos terminados con el uso de dispositivos mobiles.
+<p aling = "justify"> 
+Desarollé aplicación Warehouse para la entrada al inventario y etiquetado de productos terminados con el uso de dispositivos mobiles. 📟
 </p>
 
 
-## 🚀 Tecnologías y Herramientas de Analisis 
+## 💎 Tecnologías y Herramientas de Analisis 
 
 -   Integración de Sistemas ERP: Oracle Cloud, QAD OnPremise, Calipso Corporate
 -   SQL Server:T-SQL, SSIS
@@ -39,7 +39,10 @@ Desarollé aplicación Warehouse para la entrada al inventario y etiquetado de p
 
 ### 📊 Business Intelligence Dashboard
 
+<p aling = "justify">
 Dashboards Industrial interactivo en **Power BI** para análisis de información manufacturera automotriz.
+Proyecto que presenta una solución de análisis de datos para un entorno de manufactura automotriz, enfocada en el monitoreo del desempeño operativo mediante indicadores clave como eficiencia, OEE, tiempo muerto y calidad.
+</p>
 
 👉 Proyecto Simulación en : [PBI-Repositorio-OEE ](https://github.com/maricelagomezortiz-lgtm/PBI-Repositorio-OEE )
 
