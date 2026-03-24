@@ -8,19 +8,19 @@ Soy Ingeniera en Informática desde el 2009 🙋🏻‍♀️
 He trabajado en el sector de manufactura automotriz automatizando procesos de manufactura y creando análisis de información de procesos industriales.
 Fui parte del equipo de implementación y gestion de sistemas empresariales ERP cubriendo el 90% de los procesos y usando una metodologia E2E.
 Tengo experiencia solida en herramiestas de manejo de datos desarrollando soluciones para procesamiento, integración y visualización de datos.
-Desarollé aplicación Warehouse para la entrada al inventario y etiquetado de productos terminados con el uso de dispositivos mobiles. 📟
+Desarrollé aplicación Warehouse para la entrada al inventario y etiquetado de productos terminados con el uso de dispositivos mobiles. 📱
 </p>
 
 
 ## 💎 Tecnologías y Herramientas de Analisis 
 
--   Integración de Sistemas ERP: Oracle Cloud, QAD OnPremise, Calipso Corporate
--   SQL Server:T-SQL, SSIS
--   Power BI: DAX, Pöwer Query
--   Excel Avanzado: Tablas Dinamicas, Matrices, Gráficos, Power Query, Macros, VB
--   Lenguajes : C#, Python, JS, VB
--   Framework : 3.5, .NET, Tkinter 
--   Versionar : Git, GitHub
+🅾️ Integración de Sistemas ERP: Oracle Cloud, QAD OnPremise, Calipso Corporate
+🥃 SQL Server:T-SQL, SSIS
+📊 Power BI: DAX, Power Query
+📈 Excel Avanzado: Tablas Dinamicas, Matrices, Gráficos, Power Query, Macros, VB
+🏆 Lenguajes : C#, Python, JS, VB
+🎖️ Framework : 3.5, .NET, Tkinter 
+🌳 Versionar : Git, GitHub
 
 
 ## 🛠 Proyectos Destacados
