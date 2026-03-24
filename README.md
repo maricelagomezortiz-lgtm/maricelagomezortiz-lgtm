@@ -34,8 +34,7 @@ Desarollé aplicación Warehouse para la entrada al inventario y etiquetado de p
 ### 📊 Dashboard de Indicadores de Producción (Manufactura Automotriz)
 
 <p align = "justify">
-Dashboards Industrial interactivo en **Power BI** para análisis de información manufacturera automotriz.
-Proyecto que presenta una solución de análisis de datos para un entorno de manufactura automotriz, enfocada en el monitoreo del desempeño operativo mediante indicadores clave como eficiencia, OEE, tiempo muerto y calidad.
+Proyecto que presenta una solución de análisis de datos para un entorno de manufactura automotriz, enfocada en el monitoreo del desempeño operativo mediante indicadores clave como eficiencia, scap y tiempo muerto.
 </p>
 
 👉 Proyecto Simulación en : [PBI-Repositorio-OEE ](https://github.com/maricelagomezortiz-lgtm/PBI-Repositorio-OEE )
