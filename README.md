@@ -39,9 +39,9 @@ Desarollé aplicación Warehouse para la entrada al inventario y etiquetado de p
 
 ### 📊 Business Intelligence Dashboard
 
-Dashboards interactivos en **Power BI** para análisis de información manufacturera.
+Dashboards Industrial interactivo en **Power BI** para análisis de información manufacturera automotriz.
 
-Simulación en : ### [](https://github.com/tu-usuario/)
+👉 Proyecto Simulación en : [PBI-Repositorio-OEE ](https://github.com/tu-usuario/PBI-Repositorio-OEE )
 
 
 ## 📫 Buscame
