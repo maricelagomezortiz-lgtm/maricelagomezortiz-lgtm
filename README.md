@@ -4,16 +4,10 @@
 
 Soy Ingeniera en Informática desde el 2009 🙋🏻‍♀️
 
-<p aling = "justify">
-  He trabajado en el sector de manufactura automotriz automatizando procesos de manufactura y creando análisis de información de procesos industriales.
-</p>
-<p aling = "justify">
-  Fui parte del equipo de implementación y gestion de sistemas empresariales ERP cubriendo el 90% de los procesos y usando una metodologia E2E.
-</p>
-<p aling = "justify">
+<p align = "justify">
+He trabajado en el sector de manufactura automotriz automatizando procesos de manufactura y creando análisis de información de procesos industriales.
+Fui parte del equipo de implementación y gestion de sistemas empresariales ERP cubriendo el 90% de los procesos y usando una metodologia E2E.
 Tengo experiencia solida en herramiestas de manejo de datos desarrollando soluciones para procesamiento, integración y visualización de datos.
-</p>
-<p aling = "justify"> 
 Desarollé aplicación Warehouse para la entrada al inventario y etiquetado de productos terminados con el uso de dispositivos mobiles. 📟
 </p>
 
@@ -37,9 +31,9 @@ Desarollé aplicación Warehouse para la entrada al inventario y etiquetado de p
 -   Implementación y gestión de modulos manufactura, inventario, compras, ventas en ERP QAD .
 -   Implementación y creación de cubos de información de modulos contables en ERP Calipso.
 
-### 📊 Business Intelligence Dashboard
+### 📊 Dashboard de Indicadores de Producción (Manufactura Automotriz)
 
-<p aling = "justify">
+<p align = "justify">
 Dashboards Industrial interactivo en **Power BI** para análisis de información manufacturera automotriz.
 Proyecto que presenta una solución de análisis de datos para un entorno de manufactura automotriz, enfocada en el monitoreo del desempeño operativo mediante indicadores clave como eficiencia, OEE, tiempo muerto y calidad.
 </p>
