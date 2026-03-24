@@ -4,16 +4,16 @@
 
 Soy Ingeniera en Informática desde el 2009 🙋🏻‍♀️
 
-<p alingt = "justify">
+<p aling = "justify">
   He trabajado en el sector automotriz y acerero automatizando procesos de manufactura y creando análisis de información de procesos industriales.
 </p>
-<p alingt = "justify">
+<p aling = "justify">
   Fui parte del equipo de implementación y gestion de sistemas empresariales ERP cubriendo el 90% de los procesos y usando una metodologia E2E.
 </p>
-<p alingt = "justify">
+<p aling = "justify">
 Tengo experiencia solida en herramiestas de manejo de datos desarrollando soluciones para procesamiento, integración y visualización de datos.
 </p>
-<p alingt = "justify">
+<p aling = "justify">
 Desarollé aplicación Warehouse para la entrada al inventario y etiquetado de productos terminados con el uso de dispositivos mobiles.
 </p>
 
@@ -33,17 +33,18 @@ Desarollé aplicación Warehouse para la entrada al inventario y etiquetado de p
 
 ### 🔗 Integración ERP
 
--   Lider Técnico en ERP Oracle Cloud SCM (PIM, MFG, OM) y WMS
--   Implementación y Consultor en modulos manufactura, inventario, compras, ventas en ERP QAD 
--   Implementación de modulos contables en ERP Calipso
+-   Lider Técnico en ERP Oracle Cloud SCM (PIM, MFG, OM) y WMS.
+-   Implementación y gestión de modulos manufactura, inventario, compras, ventas en ERP QAD .
+-   Implementación y creación de cubos de información de modulos contables en ERP Calipso.
 
 ### 📊 Business Intelligence Dashboard
 
 Dashboards interactivos en **Power BI** para análisis de información manufacturera.
 
-------------------------------------------------------------------------
+Simulación en : ### [](https://github.com/tu-usuario/)
 
-## 📫 Contacto
+
+## 📫 Buscame
 
 -   💼 LinkedIn: 
 -   📧 Email: maricela.gomez.ortiz@gmail.com
