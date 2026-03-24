@@ -12,15 +12,15 @@ Desarrollé aplicación Warehouse para la entrada al inventario y etiquetado de 
 </p>
 
 
-## 💎 Tecnologías y Herramientas de Analisis 
+## 💠 Tecnologías y Herramientas 
 
-🅾️ Integración de Sistemas ERP: Oracle Cloud, QAD OnPremise, Calipso Corporate
-🥃 SQL Server:T-SQL, SSIS
-📊 Power BI: DAX, Power Query
-📈 Excel Avanzado: Tablas Dinamicas, Matrices, Gráficos, Power Query, Macros, VB
-🏆 Lenguajes : C#, Python, JS, VB
-🎖️ Framework : 3.5, .NET, Tkinter 
-🌳 Versionar : Git, GitHub
+  ✓ Integración de Sistemas ERP: Oracle Cloud, QAD OnPremise, Calipso Corporate <br>
+  ✓ SQL Server:T-SQL, SSIS <br>
+  ✓ Power BI: DAX, Power Query <br>
+  ✓ Excel Avanzado: Tablas Dinamicas, Matrices, Gráficos, Power Query, Macros, VB <br>
+  ✓ Lenguajes : C#, Python, JS, VB <br>
+  ✓ Framework : 3.5, .NET, Tkinter <br>
+  ✓ Versionar : Git, GitHub <br>
 
 
 ## 🛠 Proyectos Destacados
