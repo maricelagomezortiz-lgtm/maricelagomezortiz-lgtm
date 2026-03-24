@@ -41,7 +41,7 @@ Desarollé aplicación Warehouse para la entrada al inventario y etiquetado de p
 
 Dashboards Industrial interactivo en **Power BI** para análisis de información manufacturera automotriz.
 
-👉 Proyecto Simulación en : [PBI-Repositorio-OEE ](https://github.com/tu-usuario/PBI-Repositorio-OEE )
+👉 Proyecto Simulación en : [PBI-Repositorio-OEE ](https://github.com/maricelagomezortiz-lgtm/PBI-Repositorio-OEE )
 
 
 ## 📫 Buscame
