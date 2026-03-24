@@ -2,12 +2,21 @@
 
 ### Ingeniera en Informática \| Data & BI Developer
 
-Soy Ingeniera en Informática con experiencia en **ingeniería de datos,
-automatización de procesos y análisis de información empresarial**.
-Trabajo principalmente con **SQL Server, ETL, Power BI y Excel
-avanzado**, desarrollando soluciones para procesamiento, integración y
-visualización de datos.
-------------------------------------------------------------------------
+Soy Ingeniera en Informática desde el 2009
+
+<p alingt = justify>
+  He trabajado en el sector indutruial automotriz y acereara automatizando procesos de manufactura y creando análisis de información de procesos industriales
+</p>
+<p>
+  He trabajado en la implementación y gestion de sistemas empresariales ERP como Oracle Cloud en una metodologia de cascada, los procesos industriales en ERP QAD y Procesos Contables en Calipso Corporate
+</p>
+<p>
+Tengo experiencia solida en herramiestas de manejo de datos **SQL Server, ETL, Powe1r BI y Excel avanzado** desarrollando soluciones para procesamiento, integración y visualización de datos.
+</p>
+<p>
+Duarante mi experiencia generé soluciones a procesos manuales como el desarrollo de gestion warehouse para el manejo de mercancias inLine.
+</p>
+
 
 ## 🚀 Tecnologías y Herramientas de Analisis 
 
@@ -17,20 +26,12 @@ visualización de datos.
 -   SSIS (ETL -- Data Integration)
 -   Power BI / DAX
 -   Excel Avanzado
--   .NET Framework
+-   .NET Framework 3.5
 -   Oracle BI
-------------------------------------------------------------------------
+-   Lenguajes : C#, Python, JS
+-   Framework : .NET, Tkinter 
+-   Versionar : Git, GitHub
 
-## 📊 Áreas de Experiencia
-
--   Integración de **sistemas ERP**
--   Modelado de **bases de datos relacionales**
--   Desarrollo de **ETL y Data Pipelines**
--   Creación de **reportes y dashboards**
--   Automatización de **procesos empresariales**
--   Optimización de **consultas SQL**
-
-------------------------------------------------------------------------
 
 ## 🛠 Proyectos Destacados
 
@@ -42,8 +43,7 @@ visualización de datos.
 
 ### 📊 Business Intelligence Dashboard
 
-Dashboards interactivos en **Power BI** para análisis de ventas,
-inventarios y operaciones.
+Dashboards interactivos en **Power BI** para análisis de información manufacturera.
 
 ------------------------------------------------------------------------
 
@@ -55,20 +55,3 @@ inventarios y operaciones.
 
 ------------------------------------------------------------------------
 
-⭐ Interesada en proyectos de **Data Engineering, Business Intelligence
-y Automatización de Datos**.
-
-<!--
-**maricelagomezortiz-lgtm/maricelagomezortiz-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
