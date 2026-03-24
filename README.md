@@ -12,7 +12,7 @@ Desarrollé aplicación Warehouse para la entrada al inventario y etiquetado de 
 </p>
 
 
-## Tecnologías y Herramientas  🅾️ 🥃 📶 📊📉
+## Tecnologías y Herramientas  🏭 🅾️ 🥃 📶 📊📉  </>
 
   ✓ Integración de Sistemas ERP: Oracle Cloud, QAD OnPremise, Calipso Corporate <br>
   ✓ SQL Server:T-SQL, SSIS  <br>
