@@ -42,7 +42,7 @@ Proyecto que presenta una solución de análisis de datos para un entorno de man
 
 ## 📫 Buscame
 
--   💼 LinkedIn: 
+-   💼 LinkedIn: www.linkedin.com/in/maria-maricela-gómez-ortiz-9a1a90121
 -   📧 Email: maricela.gomez.ortiz@gmail.com
 -   🌎 Ubicación: San Luis Potosí, México
 
