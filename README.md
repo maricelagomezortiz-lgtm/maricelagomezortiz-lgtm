@@ -18,11 +18,16 @@ Desarrollé aplicación Warehouse para la entrada al inventario y etiquetado de 
   ✓ SQL Server:T-SQL, SSIS  <br>
   ✓ Power BI: DAX, Power Query <br>
   ✓ Excel Avanzado: Tablas Dinamicas, Matrices, Gráficos, Power Query, Macros, VB <br>
-  ✓ Lenguajes : C#, Python, JS, VB <br>
+  ✓ Lenguajes : C# , JS, VB <br>
   ✓ Framework : 3.5, .NET, Tkinter <br>
   ✓ Versionar : Git, GitHub <br>
-
-
+  ✓ Python para analistas: Numpy, Pandas, Matplotlib , Seaborn <br>
+  ✓ Procesos de Analisis: EDA <br>
+  ✓ Metodologias de Proyecto: Cascada, Oracle Unified Method (OUM) <br>
+  ✓ Arquitecturas: Capas, MVC <br>
+  ✓ Procesos Empresariales: EDI, CFDi <br>
+  
+    
 ## 🛠 Proyectos Destacados
 
 ### 🔗 Integración ERP
